@@ -16,9 +16,6 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 ![alt text](image-3.png)
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
