@@ -110,7 +110,7 @@ X = sequence.pad_sequences(maxlen=max_len,
 y = sequence.pad_sequences(maxlen=max_len,
                   sequences=y1,
                   padding="post",
-                  value=tag2idx["I-art"])
+                  value=tag2idx["O"])
 				  
 X_train, X_test, y_train, y_test = train_test_split(X, y,test_size=0.2, random_state=1)
 
