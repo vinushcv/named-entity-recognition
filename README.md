@@ -14,6 +14,8 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 
 4.Bidirectional Recurrent Neural Networks connect two hidden layers of opposite directions to the same output.
 
+![alt text](image-3.png)
+
 ## Neural Network Model
 
 Include the neural network model diagram.
