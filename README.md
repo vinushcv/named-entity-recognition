@@ -171,7 +171,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Sample Text Prediction
 
-![alt text](image-2.png)
+![image](https://github.com/vinushcv/named-entity-recognition/assets/113975318/26280815-0a6a-441c-9e40-6eed19fe1687)
+
 
 ## RESULT
 
